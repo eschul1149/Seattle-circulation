@@ -26,8 +26,10 @@ DATA & FILE OVERVIEW
 1.  File List: 
 		A. Filename: README.md 
 		Short description: This file, gives details about how to understand dataset. 
+		
+		
 		B. Filename: ES-Protocol.zip 
-		Short description: This zip file contains the Schulz_Circulation_Data.csv file and the 	Schulz_data_protocol.docx file.
+		Short description: This zip file contains the Schulz_Circulation_Data.csv file and the 	Schulz_data_protocol.docx file. The data in Schulz_Circulation_Data was normalized by following standard naming conventions. The data was all taken from the same city in the same survey so the numbers were not touched in terms of normalization.
     
 2.  Relationship between files, if important: 
 This README.md is hyperlinked in the Schulz_data_protocol and can be also viewed on GitHub.
