@@ -50,27 +50,27 @@ DATA-SPECIFIC INFORMATION FOR: Seattle_Circulation_Data.csv
 3.  Variable List:
     
 
-A. Name: year 
+A. 	Name: year 
 	Description: This variable describes the year that the data has been found in. 
 	Unit: Integer 
 	Values: Integers greater than 0 
-	B. Name: children_circ 
+B. 	Name: children_circ 
 	Description: This variable is the children circulation total number for the corresponding year variable. 
 	Unit: Integer 
 	Values: Integers greater than 0 
-	C. Name: electronic_circ 
+C. 	Name: electronic_circ 
 	Description: This variable is the electronic items circulation total number for the corresponding year variable. 
 	Unit: Integer 
 	Values: Integers greater than 0 
-	D. Name: physical_circ 
+D. 	Name: physical_circ 
 	Description: This variable is the physical items circulation total number for the corresponding year variable. 
 	Unit: Integer 
 	Values: Integers greater than 0 
-	E. Name: total_circ 
+E. 	Name: total_circ 
 	Description: This variable is the cumulative circulation total number for the corresponding year variable. 
 	Unit: Integer 
 	Values: Integers greater than 0 
-	F. Name: legal_service_area_pop 
+F. 	Name: legal_service_area_pop 
 	Description: This variable is the legal service area population of the Seattle Public Library for the corresponding year variable. 
 	Unit: Integer 
 	Values: Integers greater than 0
